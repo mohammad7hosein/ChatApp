@@ -1,4 +1,20 @@
 # ChatApp
-a chat app with ktor
+A Chat App With Ktor Server
 
-jetpack compose, clean architecure, mvvm, ... 
+# Features:
+
+Clean Architecture
+
+MVVM
+
+Jetpack Compose
+
+Ktor
+
+Dependency Injection With Koin
+
+Coroutine
+
+Flow
+
+
